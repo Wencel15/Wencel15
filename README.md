@@ -1,7 +1,7 @@
 
 
 ## 👋 Hello! Welcome to my Github profile.
-### My name is Luciano Wencel and my nickname is "Wencel15"!
+### My name is Luciano Wencel!
 
 
 <div>
